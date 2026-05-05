@@ -1,9 +1,13 @@
-# Generated for Little Lemon Capstone
+# Generated for Little Lemon Capstone Project
 from django.db import migrations, models
 
+
 class Migration(migrations.Migration):
+
     initial = True
+
     dependencies = []
+
     operations = [
         migrations.CreateModel(
             name='Booking',
